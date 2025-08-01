@@ -5,7 +5,7 @@ This site is a showcase of my skills, projects, and interests in web development
 
 ## 🚀 Live Website
 
-👉 [Visit Portfolio](https://imadityasingh07.github.io)
+👉 [Visit Portfolio](https://visionary-elf-602bcd.netlify.app/)
 
 ## 🛠️ Built With
 
