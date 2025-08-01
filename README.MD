@@ -44,9 +44,11 @@ This site is a showcase of my skills, projects, and interests in web development
 
 Feel free to reach out!
 
-- LinkedIn: [linkedin.com/in/adityasingh07](#)
-- Email: [your-email@example.com](#)
+- LinkedIn: [https://www.linkedin.com/in/aditya-singh-39aa202ab/](#)
+- Email: [adityasingh20637@gmail.com](#)
 - GitHub: [github.com/imadityasingh07](https://github.com/imadityasingh07)
+
+- Instagram: [/](#)
 
 ---
 
