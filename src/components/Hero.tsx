@@ -52,9 +52,8 @@ const Hero = () => {
             
             {/* Download Resume Button */}
             <a
-              href="https://drive.google.com/uc?export=download&id=1GL30njzTxxPHw-XS7zRzFPPUexf7iFOJ"
-              target="_blank"
-              rel="noopener noreferrer"
+              href=""
+              download="Aditya_Kumar_Singh_Resume.pdf"
               className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 transition-colors shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
             >
               <Download className="w-5 h-5 mr-2" />
