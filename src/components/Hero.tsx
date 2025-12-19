@@ -52,7 +52,7 @@ const Hero = () => {
             
             {/* Download Resume Button */}
             <a
-              href=""
+              href="/resume.pdf"
               download="Aditya_Kumar_Singh_Resume.pdf"
               className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 transition-colors shadow-lg hover:shadow-xl transform hover:-translate-y-0.5"
             >
